@@ -1,5 +1,8 @@
 _repo: Les-Obsedes_67884
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67884-h/images/cover.jpg
 creator:
   author:
     agent_name: Frapié, Léon
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/L%C3%A9on_Frapi%C3%A9
     - https://fr.wikipedia.org/wiki/L%C3%A9on_Frapi%C3%A9
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67884#Les-Obsedes
 gutenberg_issued: '2022-04-20'
 identifiers:
   gutenberg: '67884'
